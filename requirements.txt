@@ -1,0 +1,34 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+streamlit==1.28.1
+
+# AI and ML dependencies
+openai==1.6.1
+#openai==1.86.0
+langchain==0.0.350
+langchain-openai==0.0.2
+#langchain-openai==0.3.28
+
+# Web development and code generation
+jinja2==3.1.2
+python-multipart==0.0.6
+
+# HTTP client for API calls
+httpx==0.25.2
+requests==2.31.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+pydantic==2.10.6
+pydantic-settings==2.8.1
+
+# Development and testing
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
+
+# Additional utilities
+python-multipart==0.0.6
+aiofiles==23.2.1
+PyYAML==6.0.1 
